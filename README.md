@@ -1,4 +1,5 @@
 # C-Windows-Forms-
+Ссылка на решения: https://disk.yandex.ru/d/o4eLhnwBYjofWw
 
 Lab1 - Задание на занятие №1.
 Изучение интегрированной среды разработки
